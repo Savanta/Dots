@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Splashtop Streamer
+GenericName=Splashtop Streamer
+Comment=Remotely access your desktop from any device from anywhere!
+Exec=python /opt/splashtop-streamer/SRStreamer.pyc
+Type=Application
+Icon=/opt/splashtop-streamer/SplashtopStreamer.png
+Categories=Network;

@@ -1,0 +1,20 @@
+2016-02-17 07:21:59	wszed?	Savanta (~marco@141.ip-51-255-32.eu) has joined #bitlbee
+2016-02-17 07:21:59	--	Topic for #bitlbee is "Welcome to the BitlBeeHive | Latest version: 3.4.1 | Offtopic chatter ? #bitlbar | http://www.bitlbee.org/ | http://wiki.bitlbee.org/FAQ | APT: http://code.bitlbee.org/debian/ | Facebook's jabber broke, use http://wiki.bitlbee.org/HowtoFacebookMQTT | jgeboski's repos moved, see http://jgeboski.github.io/ "
+2016-02-17 07:21:59	--	Topic set by wilmer (~ElDuderin@149.18.64.122) on Wed, 27 Jan 2016 12:51:07
+2016-02-17 07:21:59	--	Channel #bitlbee: 242 nicks (0 ops, 0 voices, 242 normals)
+2016-02-17 07:21:59	--	PvNotice(ChanServ): Most common FAQs are on /topic, please read it. Also, don't be an asshole. There are no rules or definitions of asshole but if you break it I'll get rid of you because that's easier than explaining to an asshole how not to be one.
+2016-02-17 07:22:01	--	Channel created on Tue, 16 Sep 2008 04:59:52
+2016-02-17 07:22:05	Savanta	hello
+2016-02-17 07:22:42	Savanta	I have problem, bitlbee don't see facebook plugin, can anybody help?
+2016-02-17 07:23:14	aam	was bitlbee restarted properly?
+2016-02-17 07:23:20	Savanta	yup
+2016-02-17 07:24:02	Savanta	facebook.la facebook.so are in /usr/local/lib/bitlbee
+2016-02-17 07:26:39	Savanta	solved...
+2016-02-17 07:27:03	Savanta	I copied this two into /usr/lib/bitlbee
+2016-02-17 07:28:26	wyszed?	meh (~meh@151.42.96.116) has quit (Ping timeout: 480 seconds)
+2016-02-17 07:30:37	Savanta	I dont get it... when i add fb accont it pass, but when i try to activate bitlbee stops
+2016-02-17 07:31:26	Savanta	http://screenshot.sh/mKRqozo798PD0
+2016-02-17 07:31:27	[Tytu?: ]	ScreenShooter - Check this screenshot!
+2016-02-17 07:31:47	Savanta	can anybody relate?
+2016-02-17 07:37:10	canada420fl	anything in logs?
+2016-02-17 07:37:31	Savanta	nope

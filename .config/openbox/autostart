@@ -1,0 +1,8 @@
+nitrogen --restore &
+compton --config ~/.config/compton.conf -b &
+tint2 &
+plank &
+conky -c ~/.config/conky.conf &
+lxpolkit &
+mpd &
+tilda &

@@ -1,0 +1,646 @@
+
+Selecting FBConfig
+GLX_FBCONFIG_ID=117
+GLX_BUFFER_SIZE=32
+GLX_DOUBLEBUFFER=1
+GLX_RED_SIZE=8
+GLX_GREEN_SIZE=8
+GLX_BLUE_SIZE=8
+GLX_ALPHA_SIZE=8
+GLX_DEPTH_SIZE=24
+GLX_STENCIL_SIZE=8
+GLX_SAMPLES_ARB=0
+GLX_SAMPLE_BUFFERS_ARB=0
+GLX_CONFIG_CAVEAT=NONE
+
+Desktop is 1366 x 768 @ 60 Hz
+OpenGL:
+    Version:  OpenGL 3.0 [3.0 Mesa 11.1.2]
+    Renderer: Mesa DRI Intel(R) HD Graphics 5500 (Broadwell GT2) x86/MMX/SSE2
+    Vendor:   InteERROR: ld.so: object '/home/savant/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ALSA lib dlmisc.c:254:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib32/alsa-lib/libasound_module_pcm_pulse.so
+Setting breakpad minidump AppID = 304410
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198013935878 [API loaded no]
+Preloaded type GtkListStore
+Preloaded type GtkWindow
+Preloaded type GtkVBox
+Preloaded type GtkImage
+Preloaded type GtkNotebook
+Preloaded type GtkHBox
+Preloaded type GtkFrame
+Preloaded type GtkAlignment
+Preloaded type GtkTreeView
+Preloaded type GtkLabel
+Preloaded type GtkCheckButton
+Preloaded type GtkScrolledWindow
+Couldn't find OnScreenSelectorQuit in main module; checking child
+Couldn't find OnScreenSelectorOK in main module; checking child
+Couldn't find OnScreenSelectorQuit in main module; checking child
+Couldn't find OnInputListRowActivated in main module; checking child
+ture_filter_anisotropic GL_EXT_texture_lod_bias GL_INGR_blend_func_separate GL_NV_blend_square GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_S3_s3tc GL_SUN_multi_draw_arrays GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_EXT_framebuffer_object GL_EXT_texture_compression_s3tc GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_MESA_window_pos GL_NV_packed_depth_stencil GL_NV_texture_rectangle GL_ARB_depth_texture GL_ARB_occlusion_query GL_ARB_shadow GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_window_pos GL_EXT_stencil_two_side GL_EXT_texture_cube_map GL_NV_depth_clamp GL_APPLE_packed_pixels GL_APPLE_vertex_array_object GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_vertex_program GL_ARB_vertex_shader GL_ATI_draw_buffers GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_MESA_pack_invert GL_NV_primitive_restart GL_ARB_depth_clamp GL_ARB_fragment_program_shadow GL_ARB_half_float_pixel GL_ARB_occlusion_query2 GL_ARB_point_sprite GL_ARB_shading_language_100 GL_ARB_sync GL_ARB_texture_non_power_of_two GL_ARB_vertex_buffer_object GL_ATI_blend_equation_separate GL_EXT_blend_equation_separate GL_OES_read_format GL_ARB_color_buffer_float GL_ARB_pixel_buffer_object GL_ARB_texture_compression_rgtc GL_ARB_texture_float GL_ARB_texture_rectangle GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_ARB_framebuffer_object GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_packed_depth_stencil GL_APPLE_object_purgeable GL_ARB_vertex_array_object GL_ATI_separate_stencil GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_gpu_program_parameters GL_EXT_texture_array GL_EXT_texture_integer GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_OES_EGL_image GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_texture_rg GL_ARB_texture_swizzle GL_ARB_vertex_array_bgra GL_EXT_texture_swizzle GL_EXT_vertex_array_bgra GL_NV_conditional_render GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_seamless_cubemap_per_texture GL_ARB_ES2_compatibility GL_ARB_blend_func_extended GL_ARB_debug_output GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_provoking_vertex GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_shader_texture_lod GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_multisample GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_uniform_buffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_provoking_vertex GL_EXT_texture_snorm GL_MESA_texture_signed_rgba GL_NV_texture_barrier GL_ARB_get_program_binary GL_ARB_robustness GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_texture_compression_bptc GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_shader_atomic_counters GL_ARB_shader_image_load_store GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_texture_storage GL_ARB_transform_feedback_instanced GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_transform_feedback GL_AMD_shader_trinary_minmax GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_clear_buffer_object GL_ARB_copy_image GL_ARB_explicit_uniform_location GL_ARB_framebuffer_no_attachments GL_ARB_invalidate_subdata GL_ARB_program_interface_query GL_ARB_shader_image_size GL_ARB_shader_storage_buffer_object GL_ARB_stencil_texturing GL_ARB_texture_query_levels GL_ARB_texture_storage_multisample GL_ARB_texture_view GL_ARB_vertex_attrib_binding GL_KHR_debug GL_ARB_buffer_storage GL_ARB_clear_texture GL_ARB_multi_bind GL_ARB_seamless_cubemap_per_texture GL_ARB_texture_mirror_clamp_to_edge GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_shader_integer_mix GL_ARB_clip_control GL_ARB_conditional_render_inverted GL_ARB_derivative_control GL_ARB_get_texture_sub_image GL_ARB_pipeline_statistics_query GL_ARB_shader_texture_image_samples GL_ARB_texture_barrier GL_EXT_polygon_offset_clamp GL_KHR_context_flush_control GL_ARB_shader_clock GL_EXT_shader_samples_identical 
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_import_context GLX_EXT_visual_info GLX_EXT_visual_rating GLX_EXT_framebuffer_sRGB GLX_EXT_create_context_es2_profile GLX_MESA_copy_sub_buffer GLX_MESA_multithread_makecurrent GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_EXT_texture_from_pixmap GLX_INTEL_swap_event GLX_EXT_buffer_age 
+Setting maxVSyncInterval to 4
+GL: disabling shadows on Intel 9xx (buggy)
+GL: disabling framebuffer blit, antialiasing, SRGB on Intel
+GL: Detected 0 MB VRAM
+Total system RAM: 7908 MiB
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+FMOD failed to initialize ... Error initializing output device. 
+ 
+(Filename:  Line: 239)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/SteamworksManaged.dll (this message is harmless)
+Loading /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/SteamworksManaged.dll into Unity Child Domain
+- Completed reload, in  0,049 seconds
+Default vsync count 1
+requesting resize 800 x 480
+resizing window to 800 x 480
+Desktop is 1366 x 768 @ 60 Hz
+Platform assembly: /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/System.Core.dll (this message is harmless)
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 299)
+
+DSP connection error.  Couldn't find the DSP unit specified. 
+ 
+(Filename:  Line: 301)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+Loading Level State Failed
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Managed/System.dll (this message is harmless)
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+An invalid object handle was used. 
+ 
+(Filename:  Line: 311)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CustomLevelText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+Fallback handler could not load library /home/savant/.local/share/Steam/steamapps/common/Hexcells Infinite/Hexcells Infinite_Data/Mono/x86/SteamworksNative
+UnloadTime: 2,924000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 5789.
+Total: 1,404000 ms (FindLiveObjects: 0,245000 ms CreateObjectMapping: 0,041000 ms MarkObjects: 0,692000 ms  DeleteObjects: 0,362000 ms)
+
+UnloadTime: 10,706000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,109000 ms (FindLiveObjects: 0,264000 ms CreateObjectMapping: 0,042000 ms MarkObjects: 0,718000 ms  DeleteObjects: 0,059000 ms)
+
+UnloadTime: 12,943000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,172000 ms (FindLiveObjects: 0,272000 ms CreateObjectMapping: 0,047000 ms MarkObjects: 0,760000 ms  DeleteObjects: 0,069000 ms)
+
+UnloadTime: 9,545000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,045000 ms (FindLiveObjects: 0,214000 ms CreateObjectMapping: 0,047000 ms MarkObjects: 0,691000 ms  DeleteObjects: 0,067000 ms)
+
+UnloadTime: 9,458000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,193000 ms (FindLiveObjects: 0,221000 ms CreateObjectMapping: 0,051000 ms MarkObjects: 0,821000 ms  DeleteObjects: 0,072000 ms)
+
+UnloadTime: 8,296000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,170000 ms (FindLiveObjects: 0,241000 ms CreateObjectMapping: 0,049000 ms MarkObjects: 0,786000 ms  DeleteObjects: 0,067000 ms)
+
+UnloadTime: 11,442000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,299000 ms (FindLiveObjects: 0,218000 ms CreateObjectMapping: 0,049000 ms MarkObjects: 0,932000 ms  DeleteObjects: 0,070000 ms)
+
+UnloadTime: 9,866000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,208000 ms (FindLiveObjects: 0,217000 ms CreateObjectMapping: 0,050000 ms MarkObjects: 0,847000 ms  DeleteObjects: 0,068000 ms)
+
+UnloadTime: 8,227000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,210000 ms (FindLiveObjects: 0,219000 ms CreateObjectMapping: 0,049000 ms MarkObjects: 0,849000 ms  DeleteObjects: 0,066000 ms)
+
+UnloadTime: 8,273000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,326000 ms (FindLiveObjects: 0,225000 ms CreateObjectMapping: 0,050000 ms MarkObjects: 0,954000 ms  DeleteObjects: 0,068000 ms)
+
+UnloadTime: 8,682000 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 76)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5787.
+Total: 1,387000 ms (FindLiveObjects: 0,306000 ms CreateObjectMapping: 0,050000 ms MarkObjects: 0,940000 ms  DeleteObjects: 0,065000 ms)
+

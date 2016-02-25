@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="sftp://savant@sawanta.pl/" added="2016-01-23T14:08:11Z" modified="2016-02-25T02:34:53Z" visited="2016-02-25T02:34:53Z">
+    <title>/ na sawanta.pl</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2016-02-25T02:34:53Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

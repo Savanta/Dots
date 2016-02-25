@@ -1,0 +1,57 @@
+2016-02-17 07:56:47	wszed?	marco (marco@141.ip-51-255-32.eu) has joined &bitlbee
+2016-02-17 07:56:47	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2016-02-17 07:56:47	--	Topic set by root (root@im.bitlbee.org) on Wed, 17 Feb 2016 07:56:47
+2016-02-17 07:56:47	--	Channel &bitlbee: 2 nicks (2 ops, 0 halfops, 0 voices, 0 normals)
+2016-02-17 07:56:47	@root	Welcome to the BitlBee gateway!
+2016-02-17 07:56:47	@root	 
+2016-02-17 07:56:47	@root	Running BitlBee 3.4.1
+2016-02-17 07:56:47	@root	 
+2016-02-17 07:56:47	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2016-02-17 07:56:47	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2016-02-17 07:57:14	@marco	register Savant sawcio
+2016-02-17 07:57:14	@root	Nick is already registered
+2016-02-17 07:57:27	@marco	register Savanta Luxperpetua12
+2016-02-17 07:57:27	@root	Nick is already registered
+2016-02-17 07:57:32	@marco	register Sawanta Luxperpetua12
+2016-02-17 07:57:32	@root	Nick is already registered
+2016-02-17 07:57:36	@marco	register Sawant Luxperpetua12
+2016-02-17 07:57:36	@root	Nick is already registered
+2016-02-17 07:57:42	@marco	register barv73 Luxperpetua12
+2016-02-17 07:57:42	@root	Nick is already registered
+2016-02-17 07:57:50	@marco	register barv7 Luxperpetua12
+2016-02-17 07:57:50	@root	Nick is already registered
+2016-02-17 07:58:01	@marco	register b.wieczorek Luxperpetua12
+2016-02-17 07:58:01	@root	Nick is already registered
+2016-02-17 07:58:20	@marco	help
+2016-02-17 07:58:20	@root	These are the available help subjects:
+2016-02-17 07:58:20	@root	 
+2016-02-17 07:58:20	@root	 quickstart - A short introduction into BitlBee
+2016-02-17 07:58:20	@root	 commands - All available commands and settings
+2016-02-17 07:58:20	@root	 channels - About creating and customizing channels
+2016-02-17 07:58:20	@root	 away - About setting away states
+2016-02-17 07:58:20	@root	 groupchats - How to work with groupchats on BitlBee
+2016-02-17 07:58:20	@root	 nick_changes - Changing your nickname without losing any settings
+2016-02-17 07:58:20	@root	 smileys - A summary of some non-standard smileys you might find and fail to understand
+2016-02-17 07:58:20	@root	 
+2016-02-17 07:58:20	@root	You can read more about them with help <subject>
+2016-02-17 07:58:20	@root	 
+2016-02-17 07:58:20	@root	Some more help can be found on http://wiki.bitlbee.org/. Bugs can be reported at http://bugs.bitlbee.org/.
+2016-02-17 07:58:20	@root	 
+2016-02-17 07:58:20	@root	For other things than bug reports, you can join #BitlBee on OFTC (irc.oftc.net) (OFTC, *not* FreeNode!) and flame us right in the face. :-)
+2016-02-17 07:58:27	@marco	quickstart
+2016-02-17 07:58:27	@root	Unknown command: quickstart. Please use help commands to get a list of available commands.
+2016-02-17 07:58:32	@marco	help quickstart
+2016-02-17 07:58:32	@root	Welcome to BitlBee, your IRC gateway to ICQ, MSN, AOL, Jabber, Yahoo! and Twitter.
+2016-02-17 07:58:32	@root	 
+2016-02-17 07:58:32	@root	The center of BitlBee is the control channel, &bitlbee. Two users will always be there, you (where "you" is the nickname you are using) and the system user, root.
+2016-02-17 07:58:32	@root	 
+2016-02-17 07:58:32	@root	You need register so that all your IM settings (passwords, contacts, etc) can be saved on the BitlBee server. It's important that you pick a good password so no one else can access your account. Register with this password using the register command: register <password> (without the brackets!).
+2016-02-17 07:58:32	@root	 
+2016-02-17 07:58:32	@root	Be sure to remember your password. The next time you connect to the BitlBee server you will need to identify <password> so that you will be recognised and logged in to all the IM services automatically.
+2016-02-17 07:58:32	@root	 
+2016-02-17 07:58:32	@root	When finished, type help quickstart2 to continue.
+2016-02-17 07:58:59	--	You are now known as Savant
+2016-02-17 07:59:07	@Savant	register Luxperpetua12
+2016-02-17 07:59:07	@root	Account successfully created
+2016-02-17 07:59:41	@Savant	account add facebook barv73@gmail.com Luxperpetua12
+2016-02-17 07:59:41	@root	Unknown protocol

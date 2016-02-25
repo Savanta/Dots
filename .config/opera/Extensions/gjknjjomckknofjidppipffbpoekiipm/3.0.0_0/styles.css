@@ -1,0 +1,299 @@
+html {
+  font-size: 10px;
+  font-family: Open Sans, sans-serif !important;
+
+  width: 285px;
+  height: 400px;
+
+  overflow: hidden;
+}
+
+body {
+  font-size: 1.6rem;
+
+  background: #393A3D;
+
+  margin: 0;
+
+  color: #4C4D4D;
+}
+
+h1 {
+  font-weight: 200;
+  font-size: 1.8rem;
+
+  margin: 0;
+
+  padding: 1.5rem 0;
+
+  display: block;
+
+  background: white;
+
+  text-align: center;
+}
+
+.logo {
+  display: block;
+
+  background: url(/img/shieldon-smile.png);
+
+  width: 120px;
+  height: 125px;
+
+  background-size: 120px 125px;
+
+  background-position: 0 5px;
+
+  position: relative;
+
+  left: 2rem;
+
+  margin: 4rem 6rem 4rem;
+
+  font-size: 18px;
+  font-weight: @semibold;
+
+  color: white;
+
+  text-indent: 4.5rem;
+  line-height: 2.5rem;
+}
+
+.logo.active {
+  background-image: url(/img/shieldon-happy.png);
+}
+
+.logo.disconnected {
+  background-image: url(/img/shieldon-sleep.png);
+}
+
+.logo.retry0 i:first-child, .logo.retry1 i:first-child,
+.logo.retry2 i:first-child, .logo.retry3 i:first-child {
+  background: rgba(255, 130, 130, 100);
+}
+
+.logo.retry0 {
+  background-image: url(/img/shieldon-oh.png);
+}
+
+.logo.retry1 {
+  background-image: url(/img/shieldon-sad.png);
+}
+
+.logo.retry2 {
+  background-image: url(/img/shieldon-frustrated.png);
+}
+
+.logo.retry3 {
+  background-image: url(/img/shieldon-exhausted.png);
+}
+
+#contact {
+  display: block;
+
+  text-align: center;
+
+  color: white;
+
+  text-decoration: none;
+
+  opacity: 0;
+  pointer-events: none;
+
+  font-size: 12px;
+
+  transition: opacity 0.3s ease;
+
+  margin-top: -0.7rem;
+  margin-bottom: 0.5rem;
+}
+
+#contact.active {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.logo i {
+  display: block;
+
+  width: 0;
+  height: 0;
+
+  position: absolute;
+
+  border-radius: 50%;
+
+  transform: scale(1);
+
+  z-index: -1;
+}
+
+.logo i:last-child {
+  width: 141px;
+  height: 141px;
+
+  background: rgba(255, 255, 255, 0.26);
+
+  left: calc(50% - 70px);
+  top: calc(50% - 70px);
+}
+
+.logo i:first-child {
+  width: 168px;
+  height: 168px;
+
+  background: rgba(255, 255, 255, 0.26);
+
+  left: calc(50% - 84px);
+  top: calc(50% - 84px);
+
+  transition: 0.4s ease box-shadow, background 0.4s ease;
+}
+
+.logo.active i:first-child {
+  background: #005AFF;
+}
+
+.logo.play i:first-child {
+  animation: logo-big 2s ease infinite;
+}
+.logo.play i:last-child {
+  animation: logo-small 2s ease infinite;
+
+  box-shadow: 0 0 10px 7px rgba(255, 255, 255, 0.07);
+}
+
+body > button {
+  border: 2px solid #D9DBDC;
+  background: rgba(255, 255, 255, 0.1);
+
+  color: rgba(255, 255, 255, 0.8);
+}
+
+body > button:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+button, div a {
+  outline: none;
+
+  text-transform: uppercase;
+
+  border-radius: 3rem;
+
+  padding: 1rem 4rem;
+
+  margin: 2rem auto;
+
+  display: block;
+
+  font-size: 1.6rem;
+
+  cursor: pointer;
+
+  box-sizing: border-box;
+
+  text-decoration: none;
+}
+
+@keyframes logo-small {
+  15% {
+    transform: scale(1.2) translateZ(0);
+  }
+
+  35% {
+    transform: scale(1) translateZ(0);
+  }
+}
+
+@keyframes logo-big {
+  5% {
+    transform: scale(1) translateZ(0);
+  }
+  30% {
+    transform: scale(1.1) translateZ(0);
+  }
+  55% {
+    transform: scale(1) translateZ(0);
+  }
+}
+
+
+.notification {
+  position: absolute;
+  top: 2rem;
+
+  width: 100%;
+  height: 3rem;
+
+  box-sizing: border-box;
+
+  background: rgba(255, 76, 76, 0.55);
+
+  color: white;
+
+  font-weight: 200;
+  text-align: center;
+
+  padding-top: 0.5rem;
+
+  opacity: 0;
+
+  transition: top 0.4s ease, opacity 0.4s ease;
+}
+
+.notification.active {
+  top: 4.6rem;
+  opacity: 1;
+}
+
+div {
+  background: #4D4E50;
+
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.6) inset;
+
+  color: rgba(255, 255, 255, 0.4);
+
+  text-align: center;
+
+  padding: 1rem 0;
+}
+
+div a {
+  background: #3166CF;
+
+  color: white;
+
+  border-radius: 3px;
+
+  width: 95%;
+  height: 40px;
+
+  border: none;
+
+  margin-bottom: 0;
+  margin-top: 0;
+
+  padding-top: 1.5rem;
+
+  box-sizing: border-box;
+
+  font-size: 12px;
+}
+
+div a:hover {
+  background: #2959BD;
+}
+
+div p {
+  margin-top: 0;
+}
+
+div + p {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.36);
+
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}

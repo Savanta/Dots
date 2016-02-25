@@ -1,0 +1,32 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "inject.css" ],
+      "js": [ "inject.js" ],
+      "matches": [ "http://chrome.google.com/webstore/*", "https://chrome.google.com/webstore/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "developer": {
+      "name": "theprovider"
+   },
+   "icons": {
+      "128": "icons/128.png",
+      "64": "icons/64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCt/tsRdghZ66G3BpCJIXJSd6f6ORL/2aLzRJoRVJYztsWCnUlxw7DWRnldIe7/d52+eQ7YVeuUYNmF+whEWYYjmPf5W0wYrBX1Tlkra074vm8AjwmlK41ctwKUm8kTwQ3LAe1mOSlZ5Z+P2NbhThYJrsfEv6JVCXhVvboFrSH9fQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "page_action": {
+      "default_icon": "icons/19.png",
+      "default_title": "__MSG_popupActionTitle__"
+   },
+   "permissions": [ "tabs", "management", "downloads", "https://clients2.google.com/service/update2/*", "*://chrome.google.com/webstore/*" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "2.2.4",
+   "web_accessible_resources": [ "api.js" ]
+}

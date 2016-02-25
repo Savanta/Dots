@@ -1,0 +1,18 @@
+[Added Associations]
+image/png=gpicview.desktop;
+text/plain=mousepad.desktop;sublime_text_3.desktop;
+application/xml=sublime_text_3.desktop;
+application/x-alpm-package=org.gnome.FileRoller.desktop;
+video/mp4=vlc.desktop;gnome-mplayer.desktop;
+video/x-msvideo=vlc.desktop;
+application/octet-stream=sublime_text_3.desktop;
+inode/directory=sublime_text_3.desktop;exo-file-manager.desktop;
+image/jpeg=shotwell-viewer.desktop;gpicview.desktop;
+x-scheme-handler/http=exo-web-browser.desktop
+x-scheme-handler/https=exo-web-browser.desktop
+x-scheme-handler/mailto=exo-mail-reader.desktop
+x-scheme-handler/trash=exo-file-manager.desktop
+application/x-cd-image=gnome-disk-image-mounter.desktop;org.gnome.FileRoller.desktop;
+
+[Default Applications]
+inode/directory=org.gnome.Nautilus.desktop

@@ -1,0 +1,831 @@
+2016-02-02 03:02:10	--	irc: connected to celber.pl/40134 (188.122.2.27)
+2016-02-02 03:02:11	--	Welcome to the pirc.pl IRC Network Marco!marco@host-188-122-2-27.finemedia.pl
+2016-02-02 03:02:11	--	Your host is gdansk.pirc.pl, running version Unreal3.2.10.4
+2016-02-02 03:02:11	--	This server was created ¶ro, 7 pa¼ CEST at 2015, 23:29:58
+2016-02-02 03:02:11	--	gdansk.pirc.pl Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpIkFn lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2016-02-02 03:02:11	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:200,e:200,I:200 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-02-02 03:02:11	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=#~ PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=pirc.pl CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2016-02-02 03:02:11	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2016-02-02 03:02:11	--	There are 67 users and 256 invisible on 12 servers
+2016-02-02 03:02:11	--	15 :operator(s) online
+2016-02-02 03:02:11	--	141 :channels formed
+2016-02-02 03:02:11	--	I have 79 clients and 0 servers
+2016-02-02 03:02:11	--	79 117 :Current local users 79, max 117
+2016-02-02 03:02:11	--	323 1721 :Current global users 323, max 1721
+2016-02-02 03:02:11	--	- gdansk.pirc.pl Message of the Day -
+2016-02-02 03:02:11	--	- 7/10/2015 23:31
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-        ____ ___ ____   ____   ____  _
+2016-02-02 03:02:11	--	-       |  _ \_ _|  _ \ / ___| |  _ \| |
+2016-02-02 03:02:11	--	-       | |_) | || |_) | |     | |_) | |
+2016-02-02 03:02:11	--	-       |  __/| ||  _ <| |___ _|  __/| |___
+2016-02-02 03:02:11	--	-       |_|  |___|_| \_\____(_)_|   |_____|
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-               POLSKA SIEC IRC
+2016-02-02 03:02:11	--	- --------------------------------------------------
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-   Witamy na serwerze Polskiej Sieci IRC
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-   Wszelkie informacje o sieci, liste kanalow,
+2016-02-02 03:02:11	--	-   ogloszenia, liste operatorow, panel
+2016-02-02 03:02:11	--	-   uzytkownika oraz pomoc znajdziesz na naszej
+2016-02-02 03:02:11	--	-   stronie, http://www.pirc.pl.
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-   Na sieci pomoc uzyskasz na kanale #help.
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	- --------------------------------------------------
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-   Laczac sie z ta siecia zaznaczasz ze
+2016-02-02 03:02:11	--	-   zapoznales sie z regulaminem sieci dostepnym
+2016-02-02 03:02:11	--	-   http://pirc.pl/teksty/zasady i zobowiazujesz
+2016-02-02 03:02:11	--	-   sie do jego przestrzegania.
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	- --------------------------------------------------
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-   Serwery sieci obsluguja automatyczna konwersje
+2016-02-02 03:02:11	--	-   kodowania (utf-8, iso8859-2, windows-1250).
+2016-02-02 03:02:11	--	-   Informacje: http://pirc.pl/teksty/p_kodowanie
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	- --------------------------------------------------
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-   Zglaszanie naduzyc:     abuse@pirc.pl
+2016-02-02 03:02:11	--	-   Strona www:             http://pirc.pl
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	- --------------------------------------------------
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-   Do kazdego serwera na naszej sieci mozna sie
+2016-02-02 03:02:11	--	-   polaczyć na ponizszych portach. Zachecamy do
+2016-02-02 03:02:11	--	-   laczenia sie na adres irc.pirc.pl, ktory
+2016-02-02 03:02:11	--	-   kieruje na losowy serwer sieci PIRC.
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-   Porty:                  6665 - 6668
+2016-02-02 03:02:11	--	-   SSL:                    6697, 6601, 7002
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	- --------------------------------------------------
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-    gdansk.pirc.pl
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-    Administratorzy:
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	-      Bzyk
+2016-02-02 03:02:11	--	-
+2016-02-02 03:02:11	--	- --------------------------------------------------
+2016-02-02 03:02:11	--	End of /MOTD command.
+2016-02-02 03:02:11	--	User mode [+iw] by Marco
+2016-02-02 03:02:55	--	irc: connected to celber.pl/40134 (188.122.2.27)
+2016-02-02 03:02:55	--	Welcome to the pirc.pl IRC Network Marco!marco@host-188-122-2-27.finemedia.pl
+2016-02-02 03:02:55	--	Your host is gdansk.pirc.pl, running version Unreal3.2.10.4
+2016-02-02 03:02:55	--	This server was created ¶ro, 7 pa¼ CEST at 2015, 23:29:58
+2016-02-02 03:02:55	--	gdansk.pirc.pl Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpIkFn lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2016-02-02 03:02:55	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:200,e:200,I:200 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-02-02 03:02:55	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=#~ PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=pirc.pl CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2016-02-02 03:02:55	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2016-02-02 03:02:55	--	There are 67 users and 256 invisible on 12 servers
+2016-02-02 03:02:55	--	15 :operator(s) online
+2016-02-02 03:02:55	--	141 :channels formed
+2016-02-02 03:02:55	--	I have 79 clients and 0 servers
+2016-02-02 03:02:55	--	79 117 :Current local users 79, max 117
+2016-02-02 03:02:55	--	323 1721 :Current global users 323, max 1721
+2016-02-02 03:02:55	--	- gdansk.pirc.pl Message of the Day -
+2016-02-02 03:02:55	--	- 7/10/2015 23:31
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-        ____ ___ ____   ____   ____  _
+2016-02-02 03:02:55	--	-       |  _ \_ _|  _ \ / ___| |  _ \| |
+2016-02-02 03:02:55	--	-       | |_) | || |_) | |     | |_) | |
+2016-02-02 03:02:55	--	-       |  __/| ||  _ <| |___ _|  __/| |___
+2016-02-02 03:02:55	--	-       |_|  |___|_| \_\____(_)_|   |_____|
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-               POLSKA SIEC IRC
+2016-02-02 03:02:55	--	- --------------------------------------------------
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-   Witamy na serwerze Polskiej Sieci IRC
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-   Wszelkie informacje o sieci, liste kanalow,
+2016-02-02 03:02:55	--	-   ogloszenia, liste operatorow, panel
+2016-02-02 03:02:55	--	-   uzytkownika oraz pomoc znajdziesz na naszej
+2016-02-02 03:02:55	--	-   stronie, http://www.pirc.pl.
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-   Na sieci pomoc uzyskasz na kanale #help.
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	- --------------------------------------------------
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-   Laczac sie z ta siecia zaznaczasz ze
+2016-02-02 03:02:55	--	-   zapoznales sie z regulaminem sieci dostepnym
+2016-02-02 03:02:55	--	-   http://pirc.pl/teksty/zasady i zobowiazujesz
+2016-02-02 03:02:55	--	-   sie do jego przestrzegania.
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	- --------------------------------------------------
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-   Serwery sieci obsluguja automatyczna konwersje
+2016-02-02 03:02:55	--	-   kodowania (utf-8, iso8859-2, windows-1250).
+2016-02-02 03:02:55	--	-   Informacje: http://pirc.pl/teksty/p_kodowanie
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	- --------------------------------------------------
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-   Zglaszanie naduzyc:     abuse@pirc.pl
+2016-02-02 03:02:55	--	-   Strona www:             http://pirc.pl
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	- --------------------------------------------------
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-   Do kazdego serwera na naszej sieci mozna sie
+2016-02-02 03:02:55	--	-   polaczyć na ponizszych portach. Zachecamy do
+2016-02-02 03:02:55	--	-   laczenia sie na adres irc.pirc.pl, ktory
+2016-02-02 03:02:55	--	-   kieruje na losowy serwer sieci PIRC.
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-   Porty:                  6665 - 6668
+2016-02-02 03:02:55	--	-   SSL:                    6697, 6601, 7002
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	- --------------------------------------------------
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-    gdansk.pirc.pl
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-    Administratorzy:
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	-      Bzyk
+2016-02-02 03:02:55	--	-
+2016-02-02 03:02:55	--	- --------------------------------------------------
+2016-02-02 03:02:55	--	End of /MOTD command.
+2016-02-02 03:02:55	--	User mode [+iw] by Marco
+2016-02-02 03:03:05	--	You have been marked as being away
+2016-02-02 03:03:20	--	You are no longer marked as being away
+2016-02-02 03:03:35	--	You have been marked as being away
+2016-02-02 03:03:41	--	You are no longer marked as being away
+2016-02-02 03:43:16	--	You have been marked as being away
+2016-02-02 08:14:30	--	You are no longer marked as being away
+2016-02-02 10:26:44	--	You have been marked as being away
+2016-02-02 14:09:34	--	You are no longer marked as being away
+2016-02-02 18:08:46	--	You are no longer marked as being away
+2016-02-02 19:51:48	--	You have been marked as being away
+2016-02-02 19:52:04	--	You are no longer marked as being away
+2016-02-03 00:46:11	--	You have been marked as being away
+2016-02-03 11:46:16	--	You are no longer marked as being away
+2016-02-03 11:54:03	--	You have been marked as being away
+2016-02-04 10:47:29	--	You are no longer marked as being away
+2016-02-04 10:48:23	--	You have been marked as being away
+2016-02-04 11:01:48	--	You are no longer marked as being away
+2016-02-04 11:12:58	--	You have been marked as being away
+2016-02-04 11:14:38	--	You are no longer marked as being away
+2016-02-04 11:45:33	--	You have been marked as being away
+2016-02-04 11:45:59	--	You are no longer marked as being away
+2016-02-04 11:57:24	--	You have been marked as being away
+2016-02-04 11:57:54	--	You are no longer marked as being away
+2016-02-04 12:39:24	--	You have been marked as being away
+2016-02-04 12:40:33	--	You are no longer marked as being away
+2016-02-04 12:41:24	--	You have been marked as being away
+2016-02-04 12:42:53	--	You are no longer marked as being away
+2016-02-04 12:43:28	--	You have been marked as being away
+2016-02-04 12:45:14	--	You are no longer marked as being away
+2016-02-04 13:07:18	--	You have been marked as being away
+2016-02-04 13:08:39	--	You are no longer marked as being away
+2016-02-04 13:18:13	--	You have been marked as being away
+2016-02-04 13:19:54	--	You are no longer marked as being away
+2016-02-04 13:20:28	--	You have been marked as being away
+2016-02-04 17:37:49	--	You are no longer marked as being away
+2016-02-04 17:40:05	--	You are no longer marked as being away
+2016-02-04 17:50:03	--	You have been marked as being away
+2016-02-04 22:44:26	--	#!/bin/bash: Cannot join channel (+i)
+2016-02-05 12:27:53	--	You are no longer marked as being away
+2016-02-05 12:28:09	--	You have been marked as being away
+2016-02-09 16:24:53	--	You are no longer marked as being away
+2016-02-09 16:25:08	--	You have been marked as being away
+2016-02-09 23:16:39	--	You are no longer marked as being away
+2016-02-09 23:17:09	--	You have been marked as being away
+2016-02-11 04:55:06	--	irc: connected to celber.pl/40134 (188.122.2.27)
+2016-02-11 04:55:07	--	Welcome to the pirc.pl IRC Network Marco!marco@host-188-122-2-27.finemedia.pl
+2016-02-11 04:55:07	--	Your host is gdansk.pirc.pl, running version Unreal3.2.10.4
+2016-02-11 04:55:07	--	This server was created ¶ro, 7 pa¼ CEST at 2015, 23:29:58
+2016-02-11 04:55:07	--	gdansk.pirc.pl Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpIkFn lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2016-02-11 04:55:07	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:200,e:200,I:200 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-02-11 04:55:07	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=#~ PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=pirc.pl CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2016-02-11 04:55:07	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2016-02-11 04:55:07	--	There are 67 users and 256 invisible on 12 servers
+2016-02-11 04:55:07	--	15 :operator(s) online
+2016-02-11 04:55:07	--	141 :channels formed
+2016-02-11 04:55:07	--	I have 79 clients and 0 servers
+2016-02-11 04:55:07	--	79 117 :Current local users 79, max 117
+2016-02-11 04:55:07	--	323 1721 :Current global users 323, max 1721
+2016-02-11 04:55:07	--	- gdansk.pirc.pl Message of the Day -
+2016-02-11 04:55:07	--	- 7/10/2015 23:31
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-        ____ ___ ____   ____   ____  _
+2016-02-11 04:55:07	--	-       |  _ \_ _|  _ \ / ___| |  _ \| |
+2016-02-11 04:55:07	--	-       | |_) | || |_) | |     | |_) | |
+2016-02-11 04:55:07	--	-       |  __/| ||  _ <| |___ _|  __/| |___
+2016-02-11 04:55:07	--	-       |_|  |___|_| \_\____(_)_|   |_____|
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-               POLSKA SIEC IRC
+2016-02-11 04:55:07	--	- --------------------------------------------------
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-   Witamy na serwerze Polskiej Sieci IRC
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-   Wszelkie informacje o sieci, liste kanalow,
+2016-02-11 04:55:07	--	-   ogloszenia, liste operatorow, panel
+2016-02-11 04:55:07	--	-   uzytkownika oraz pomoc znajdziesz na naszej
+2016-02-11 04:55:07	--	-   stronie, http://www.pirc.pl.
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-   Na sieci pomoc uzyskasz na kanale #help.
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	- --------------------------------------------------
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-   Laczac sie z ta siecia zaznaczasz ze
+2016-02-11 04:55:07	--	-   zapoznales sie z regulaminem sieci dostepnym
+2016-02-11 04:55:07	--	-   http://pirc.pl/teksty/zasady i zobowiazujesz
+2016-02-11 04:55:07	--	-   sie do jego przestrzegania.
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	- --------------------------------------------------
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-   Serwery sieci obsluguja automatyczna konwersje
+2016-02-11 04:55:07	--	-   kodowania (utf-8, iso8859-2, windows-1250).
+2016-02-11 04:55:07	--	-   Informacje: http://pirc.pl/teksty/p_kodowanie
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	- --------------------------------------------------
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-   Zglaszanie naduzyc:     abuse@pirc.pl
+2016-02-11 04:55:07	--	-   Strona www:             http://pirc.pl
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	- --------------------------------------------------
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-   Do kazdego serwera na naszej sieci mozna sie
+2016-02-11 04:55:07	--	-   polaczyć na ponizszych portach. Zachecamy do
+2016-02-11 04:55:07	--	-   laczenia sie na adres irc.pirc.pl, ktory
+2016-02-11 04:55:07	--	-   kieruje na losowy serwer sieci PIRC.
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-   Porty:                  6665 - 6668
+2016-02-11 04:55:07	--	-   SSL:                    6697, 6601, 7002
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	- --------------------------------------------------
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-    gdansk.pirc.pl
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-    Administratorzy:
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	-      Bzyk
+2016-02-11 04:55:07	--	-
+2016-02-11 04:55:07	--	- --------------------------------------------------
+2016-02-11 04:55:07	--	End of /MOTD command.
+2016-02-11 04:55:07	--	User mode [+iw] by Marco
+2016-02-11 04:55:58	--	You have been marked as being away
+2016-02-11 12:59:54	--	You are no longer marked as being away
+2016-02-11 13:18:17	--	You have been marked as being away
+2016-02-11 14:05:02	--	irc: connected to celber.pl/40134 (188.122.2.27)
+2016-02-11 14:05:02	--	Welcome to the pirc.pl IRC Network Marco!marco@host-188-122-2-27.finemedia.pl
+2016-02-11 14:05:02	--	Your host is gdansk.pirc.pl, running version Unreal3.2.10.4
+2016-02-11 14:05:02	--	This server was created ?ro, 7 pa? CEST at 2015, 23:29:58
+2016-02-11 14:05:02	--	gdansk.pirc.pl Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpIkFn lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2016-02-11 14:05:02	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:200,e:200,I:200 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-02-11 14:05:02	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=#~ PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=pirc.pl CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2016-02-11 14:05:02	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2016-02-11 14:05:02	--	There are 67 users and 256 invisible on 12 servers
+2016-02-11 14:05:02	--	15 :operator(s) online
+2016-02-11 14:05:02	--	141 :channels formed
+2016-02-11 14:05:02	--	I have 79 clients and 0 servers
+2016-02-11 14:05:02	--	79 117 :Current local users 79, max 117
+2016-02-11 14:05:02	--	323 1721 :Current global users 323, max 1721
+2016-02-11 14:05:02	--	- gdansk.pirc.pl Message of the Day -
+2016-02-11 14:05:02	--	- 7/10/2015 23:31
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-        ____ ___ ____   ____   ____  _
+2016-02-11 14:05:02	--	-       |  _ \_ _|  _ \ / ___| |  _ \| |
+2016-02-11 14:05:02	--	-       | |_) | || |_) | |     | |_) | |
+2016-02-11 14:05:02	--	-       |  __/| ||  _ <| |___ _|  __/| |___
+2016-02-11 14:05:02	--	-       |_|  |___|_| \_\____(_)_|   |_____|
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-               POLSKA SIEC IRC
+2016-02-11 14:05:02	--	- --------------------------------------------------
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-   Witamy na serwerze Polskiej Sieci IRC
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-   Wszelkie informacje o sieci, liste kanalow,
+2016-02-11 14:05:02	--	-   ogloszenia, liste operatorow, panel
+2016-02-11 14:05:02	--	-   uzytkownika oraz pomoc znajdziesz na naszej
+2016-02-11 14:05:02	--	-   stronie, http://www.pirc.pl.
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-   Na sieci pomoc uzyskasz na kanale #help.
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	- --------------------------------------------------
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-   Laczac sie z ta siecia zaznaczasz ze
+2016-02-11 14:05:02	--	-   zapoznales sie z regulaminem sieci dostepnym
+2016-02-11 14:05:02	--	-   http://pirc.pl/teksty/zasady i zobowiazujesz
+2016-02-11 14:05:02	--	-   sie do jego przestrzegania.
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	- --------------------------------------------------
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-   Serwery sieci obsluguja automatyczna konwersje
+2016-02-11 14:05:02	--	-   kodowania (utf-8, iso8859-2, windows-1250).
+2016-02-11 14:05:02	--	-   Informacje: http://pirc.pl/teksty/p_kodowanie
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	- --------------------------------------------------
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-   Zglaszanie naduzyc:     abuse@pirc.pl
+2016-02-11 14:05:02	--	-   Strona www:             http://pirc.pl
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	- --------------------------------------------------
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-   Do kazdego serwera na naszej sieci mozna sie
+2016-02-11 14:05:02	--	-   polaczy? na ponizszych portach. Zachecamy do
+2016-02-11 14:05:02	--	-   laczenia sie na adres irc.pirc.pl, ktory
+2016-02-11 14:05:02	--	-   kieruje na losowy serwer sieci PIRC.
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-   Porty:                  6665 - 6668
+2016-02-11 14:05:02	--	-   SSL:                    6697, 6601, 7002
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	- --------------------------------------------------
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-    gdansk.pirc.pl
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-    Administratorzy:
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	-      Bzyk
+2016-02-11 14:05:02	--	-
+2016-02-11 14:05:02	--	- --------------------------------------------------
+2016-02-11 14:05:02	--	End of /MOTD command.
+2016-02-11 14:05:02	--	User mode [+iw] by Marco
+2016-02-11 14:05:17	--	You have been marked as being away
+2016-02-11 14:14:57	--	You are no longer marked as being away
+2016-02-11 14:33:47	--	You have been marked as being away
+2016-02-11 14:38:07	--	You are no longer marked as being away
+2016-02-11 14:46:21	--	legowisko.pirc.pl: *** Looking up your hostname...
+2016-02-11 14:46:21	--	legowisko.pirc.pl: *** Checking ident...
+2016-02-11 14:46:21	--	legowisko.pirc.pl: *** Found your hostname
+2016-02-11 14:46:21	--	legowisko.pirc.pl: *** Received identd response
+2016-02-11 14:46:23	--	Welcome to the pirc.pl IRC Network Marco-!marco@host-188-122-2-27.finemedia.pl
+2016-02-11 14:46:23	--	Your host is legowisko.pirc.pl, running version Unreal3.2.10
+2016-02-11 14:46:23	--	This server was created Wed Jan 16 2013 at 19:22:15 UTC
+2016-02-11 14:46:23	--	legowisko.pirc.pl Unreal3.2.10 iowghraAsORTVSxNCWqBzvdHtGpIkFn lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2016-02-11 14:46:23	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:200,e:200,I:200 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-02-11 14:46:23	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=#~ PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=pirc.pl CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2016-02-11 14:46:23	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2016-02-11 14:46:23	--	There are 87 users and 287 invisible on 9 servers
+2016-02-11 14:46:23	--	15 :operator(s) online
+2016-02-11 14:46:23	--	1 :unknown connection(s)
+2016-02-11 14:46:23	--	149 :channels formed
+2016-02-11 14:46:23	--	I have 152 clients and 0 servers
+2016-02-11 14:46:23	--	152 252 :Current local users 152, max 252
+2016-02-11 14:46:23	--	374 1721 :Current global users 374, max 1721
+2016-02-11 14:46:23	--	- legowisko.pirc.pl Message of the Day -
+2016-02-11 14:46:23	--	- 16/1/2013 20:11
+2016-02-11 14:46:23	--	-        ____ ___ ____   ____   ____  _
+2016-02-11 14:46:23	--	-       |  _ \_ _|  _ \ / ___| |  _ \| |
+2016-02-11 14:46:23	--	-       | |_) | || |_) | |     | |_) | |
+2016-02-11 14:46:23	--	-       |  __/| ||  _ <| |___ _|  __/| |___
+2016-02-11 14:46:23	--	-       |_|  |___|_| \_\____(_)_|   |_____|
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-               POLSKA SIEC IRC
+2016-02-11 14:46:23	--	- --------------------------------------------------
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-   Witamy na serwerze Polskiej Sieci IRC
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-   Wszelkie informacje o sieci, liste kanalow,
+2016-02-11 14:46:23	--	-   ogloszenia, liste operatorow, panel
+2016-02-11 14:46:23	--	-   uzytkownika oraz pomoc znajdziesz na naszej
+2016-02-11 14:46:23	--	-   stronie, http://www.pirc.pl.
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-   Na sieci pomoc uzyskasz na kanale #help.
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	- --------------------------------------------------
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-   Laczac sie z ta siecia zaznaczasz ze
+2016-02-11 14:46:23	--	-   zapoznales sie z regulaminem sieci dostepnym
+2016-02-11 14:46:23	--	-   http://pirc.pl/teksty/zasady i zobowiazujesz
+2016-02-11 14:46:23	--	-   sie do jego przestrzegania.
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	- --------------------------------------------------
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-   Serwery sieci obsluguja automatyczna konwersje
+2016-02-11 14:46:23	--	-   kodowania (utf-8, iso8859-2, windows-1250).
+2016-02-11 14:46:23	--	-   Informacje: http://pirc.pl/teksty/p_kodowanie
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	- --------------------------------------------------
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-   Zglaszanie naduzyc:     abuse@pirc.pl
+2016-02-11 14:46:23	--	-   Strona www:             http://pirc.pl
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	- --------------------------------------------------
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-   Do kazdego serwera na naszej sieci mozna sie
+2016-02-11 14:46:23	--	-   polaczy? na ponizszych portach. Zachecamy do
+2016-02-11 14:46:23	--	-   laczenia sie na adres irc.pirc.pl, ktory
+2016-02-11 14:46:23	--	-   kieruje na losowy serwer sieci PIRC.
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-   Porty:                  6665 - 6668
+2016-02-11 14:46:23	--	-   SSL:                    6697, 6601, 7002
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	- --------------------------------------------------
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-    legowisko.pirc.pl
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-    Administratorzy:
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	-      samu
+2016-02-11 14:46:23	--	-      Tril
+2016-02-11 14:46:23	--	-      pidpawel
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	- --------------------------------------------------
+2016-02-11 14:46:23	--	-
+2016-02-11 14:46:23	--	End of /MOTD command.
+2016-02-11 14:46:23	--	User mode [+iw] by Marco-
+2016-02-11 14:46:23	--	NickServ (serwisy@pirc.pl): Tw?j nick nie jest zarejestrowany. Aby dowiedzie? si?, jak go zarejestrowa? i po co, zajrzyj na http://pirc.pl/teksty/p_nickserv
+2016-02-11 14:46:23	--	[*] Marco- (marco@host-188-122-2-27.finemedia.pl) H 0 (marco)
+2016-02-11 14:46:23	--	[Marco-] End of /WHO list.
+2016-02-11 15:32:47	--	You have been marked as being away
+2016-02-11 15:46:12	--	You are no longer marked as being away
+2016-02-11 16:43:57	--	You have been marked as being away
+2016-02-11 16:44:17	--	You are no longer marked as being away
+2016-02-11 16:56:27	--	You have been marked as being away
+2016-02-11 17:01:07	--	You are no longer marked as being away
+2016-02-12 03:44:17	--	You have been marked as being away
+2016-02-12 11:03:17	--	You are no longer marked as being away
+2016-02-13 08:49:27	--	You have been marked as being away
+2016-02-13 08:54:41	--	You are no longer marked as being away
+2016-02-13 08:56:27	--	You have been marked as being away
+2016-02-13 09:03:42	--	You are no longer marked as being away
+2016-02-13 11:02:12	--	You have been marked as being away
+2016-02-13 11:17:17	--	You are no longer marked as being away
+2016-02-13 14:14:31	--	You have been marked as being away
+2016-02-13 20:02:47	--	You are no longer marked as being away
+2016-02-14 08:34:47	--	You have been marked as being away
+2016-02-14 08:46:07	--	You are no longer marked as being away
+2016-02-14 09:12:31	--	You have been marked as being away
+2016-02-14 09:32:02	--	You are no longer marked as being away
+2016-02-14 12:15:37	--	You have been marked as being away
+2016-02-14 12:34:42	--	You are no longer marked as being away
+2016-02-15 00:27:43	=!=	irc: reading data on socket: error 104 Connection reset by peer
+2016-02-15 00:27:43	--	irc: disconnecting from server...
+2016-02-15 00:27:43	--	irc: disconnected from server
+2016-02-15 00:27:43	--	irc: reconnecting to server in 10 seconds
+2016-02-15 00:27:53	--	irc: reconnecting to server...
+2016-02-15 00:27:53	--	irc: connecting to server celber.pl/40134...
+2016-02-15 00:27:53	--	irc: connected to celber.pl/40134 (188.122.2.27)
+2016-02-15 00:27:57	--	- Welcome to ZNC -
+2016-02-15 00:27:57	--	CHANTYPES=#~~ :are supported by this server.
+2016-02-15 00:36:04	--	legowisko.pirc.pl: *** Looking up your hostname...
+2016-02-15 00:36:04	--	legowisko.pirc.pl: *** Found your hostname (cached)
+2016-02-15 00:36:04	--	legowisko.pirc.pl: *** Checking ident...
+2016-02-15 00:36:05	--	legowisko.pirc.pl: *** Received identd response
+2016-02-15 00:36:26	--	Welcome to the pirc.pl IRC Network Marco!marco@host-188-122-2-27.finemedia.pl
+2016-02-15 00:36:26	--	Your host is legowisko.pirc.pl, running version Unreal3.2.10
+2016-02-15 00:36:26	--	This server was created Wed Jan 16 2013 at 19:22:15 UTC
+2016-02-15 00:36:26	--	legowisko.pirc.pl Unreal3.2.10 iowghraAsORTVSxNCWqBzvdHtGpIkFn lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2016-02-15 00:36:26	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:200,e:200,I:200 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-02-15 00:36:26	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=#~ PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=pirc.pl CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2016-02-15 00:36:27	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2016-02-15 00:36:27	--	There are 110 users and 250 invisible on 9 servers
+2016-02-15 00:36:27	--	15 :operator(s) online
+2016-02-15 00:36:27	--	152 :channels formed
+2016-02-15 00:36:27	--	I have 133 clients and 0 servers
+2016-02-15 00:36:27	--	133 252 :Current local users 133, max 252
+2016-02-15 00:36:27	--	360 1721 :Current global users 360, max 1721
+2016-02-15 00:36:27	--	- legowisko.pirc.pl Message of the Day -
+2016-02-15 00:36:27	--	- 16/1/2013 20:11
+2016-02-15 00:36:27	--	-        ____ ___ ____   ____   ____  _
+2016-02-15 00:36:27	--	-       |  _ \_ _|  _ \ / ___| |  _ \| |
+2016-02-15 00:36:27	--	-       | |_) | || |_) | |     | |_) | |
+2016-02-15 00:36:27	--	-       |  __/| ||  _ <| |___ _|  __/| |___
+2016-02-15 00:36:27	--	-       |_|  |___|_| \_\____(_)_|   |_____|
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	-               POLSKA SIEC IRC
+2016-02-15 00:36:27	--	- --------------------------------------------------
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	-   Witamy na serwerze Polskiej Sieci IRC
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	-   Wszelkie informacje o sieci, liste kanalow,
+2016-02-15 00:36:27	--	-   ogloszenia, liste operatorow, panel
+2016-02-15 00:36:27	--	-   uzytkownika oraz pomoc znajdziesz na naszej
+2016-02-15 00:36:27	--	-   stronie, http://www.pirc.pl.
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	-   Na sieci pomoc uzyskasz na kanale #help.
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	- --------------------------------------------------
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	-   Laczac sie z ta siecia zaznaczasz ze
+2016-02-15 00:36:27	--	-   zapoznales sie z regulaminem sieci dostepnym
+2016-02-15 00:36:27	--	-   http://pirc.pl/teksty/zasady i zobowiazujesz
+2016-02-15 00:36:27	--	-   sie do jego przestrzegania.
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	- --------------------------------------------------
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	-   Serwery sieci obsluguja automatyczna konwersje
+2016-02-15 00:36:27	--	-   kodowania (utf-8, iso8859-2, windows-1250).
+2016-02-15 00:36:27	--	-   Informacje: http://pirc.pl/teksty/p_kodowanie
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	- --------------------------------------------------
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	-   Zglaszanie naduzyc:     abuse@pirc.pl
+2016-02-15 00:36:27	--	-   Strona www:             http://pirc.pl
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	- --------------------------------------------------
+2016-02-15 00:36:27	--	-
+2016-02-15 00:36:27	--	-   Do kazdego serwera na naszej sieci mozna sie
+2016-02-15 00:36:27	--	-   polaczy? na ponizszych portach. Zachecamy do
+2016-02-15 00:36:32	--	-   laczenia sie na adres irc.pirc.pl, ktory
+2016-02-15 00:36:32	--	-   kieruje na losowy serwer sieci PIRC.
+2016-02-15 00:36:32	--	-
+2016-02-15 00:36:32	--	-   Porty:                  6665 - 6668
+2016-02-15 00:36:32	--	-   SSL:                    6697, 6601, 7002
+2016-02-15 00:36:32	--	-
+2016-02-15 00:36:32	--	- --------------------------------------------------
+2016-02-15 00:36:32	--	-
+2016-02-15 00:36:32	--	-    legowisko.pirc.pl
+2016-02-15 00:36:32	--	-
+2016-02-15 00:36:32	--	-    Administratorzy:
+2016-02-15 00:36:32	--	-
+2016-02-15 00:36:32	--	-      samu
+2016-02-15 00:36:32	--	-      Tril
+2016-02-15 00:36:32	--	-      pidpawel
+2016-02-15 00:36:32	--	-
+2016-02-15 00:36:32	--	- --------------------------------------------------
+2016-02-15 00:36:32	--	-
+2016-02-15 00:36:32	--	End of /MOTD command.
+2016-02-15 00:36:32	--	User mode [+iw] by Marco
+2016-02-15 00:36:33	--	NickServ (serwisy@pirc.pl): Ten nick jest zarejestrowany i chroniony.
+2016-02-15 00:36:33	--	NickServ (serwisy@pirc.pl): Zidentyfikuj si? pisz?c: /msg NickServ IDENTIFY has?o
+2016-02-15 00:36:33	--	NickServ (serwisy@pirc.pl): je?li nick nale?y do Ciebie, w przeciwnym razie zmie? go.
+2016-02-15 00:36:33	--	NickServ (serwisy@pirc.pl): Masz jedn? minut? na zmian? nicka, potem zostanie zmieniony si??.
+2016-02-15 00:36:33	--	[*] Marco (marco@host-188-122-2-27.finemedia.pl) H 0 (marco)
+2016-02-15 00:36:33	--	[Marco] End of /WHO list.
+2016-02-15 00:36:45	--	NickServ (serwisy@pirc.pl): Has?o przyj?te - jeste? zidentyfikowany(a).
+2016-02-15 00:36:46	--	HostServ (serwisy@pirc.pl): Tw?j vhost vhost:idz.pan.w jest teraz aktywny.
+2016-02-15 04:11:16	--	You have been marked as being away
+2016-02-15 13:26:06	--	You are no longer marked as being away
+2016-02-15 16:08:32	--	You have been marked as being away
+2016-02-15 16:33:22	--	You are no longer marked as being away
+2016-02-15 19:43:52	--	You have been marked as being away
+2016-02-16 00:57:37	--	You are no longer marked as being away
+2016-02-16 04:03:17	--	You have been marked as being away
+2016-02-16 04:04:37	--	You are no longer marked as being away
+2016-02-16 06:02:52	--	You have been marked as being away
+2016-02-16 06:02:57	--	You are no longer marked as being away
+2016-02-16 06:25:47	--	You have been marked as being away
+2016-02-16 06:35:47	--	You are no longer marked as being away
+2016-02-16 07:24:12	--	You have been marked as being away
+2016-02-16 08:47:42	--	You are no longer marked as being away
+2016-02-16 10:08:56	--	You have been marked as being away
+2016-02-16 10:29:47	--	You are no longer marked as being away
+2016-02-16 10:57:22	--	You have been marked as being away
+2016-02-16 12:00:17	--	You are no longer marked as being away
+2016-02-16 13:32:32	--	You have been marked as being away
+2016-02-16 14:45:17	--	You are no longer marked as being away
+2016-02-16 15:03:57	--	You have been marked as being away
+2016-02-16 15:52:07	--	You are no longer marked as being away
+2016-02-16 16:36:42	--	You have been marked as being away
+2016-02-16 16:57:42	--	You are no longer marked as being away
+2016-02-16 19:45:02	--	You have been marked as being away
+2016-02-16 22:47:32	--	You are no longer marked as being away
+2016-02-17 08:49:32	--	You have been marked as being away
+2016-02-17 08:53:47	--	You are no longer marked as being away
+2016-02-17 09:16:02	--	You have been marked as being away
+2016-02-17 11:22:17	--	You are no longer marked as being away
+2016-02-17 12:05:27	--	You have been marked as being away
+2016-02-17 12:08:37	--	You are no longer marked as being away
+2016-02-17 13:16:37	--	You have been marked as being away
+2016-02-17 19:05:47	--	You are no longer marked as being away
+2016-02-18 09:01:17	--	You have been marked as being away
+2016-02-18 14:29:52	--	You are no longer marked as being away
+2016-02-19 12:29:31	--	You have been marked as being away
+2016-02-19 12:52:17	--	You are no longer marked as being away
+2016-02-20 12:41:57	--	You have been marked as being away
+2016-02-20 14:03:17	--	You are no longer marked as being away
+2016-02-21 21:08:42	--	You are no longer marked as being away
+2016-02-21 21:08:47	--	You have been marked as being away
+2016-02-23 00:52:01	=!=	irc: reading data on socket: error 104 Connection reset by peer
+2016-02-23 00:52:01	--	irc: disconnecting from server...
+2016-02-23 00:52:01	--	irc: disconnected from server
+2016-02-23 00:52:01	--	irc: reconnecting to server in 10 seconds
+2016-02-23 00:52:11	--	irc: reconnecting to server...
+2016-02-23 00:52:11	--	irc: connecting to server celber.pl/40134...
+2016-02-23 00:52:11	--	irc: connected to celber.pl/40134 (188.122.2.27)
+2016-02-23 00:52:12	--	- Welcome to ZNC -
+2016-02-23 00:52:12	--	CHANTYPES=#~~ :are supported by this server.
+2016-02-23 00:56:09	--	netsplit.pirc.pl: *** Looking up your hostname...
+2016-02-23 00:56:09	--	netsplit.pirc.pl: *** Found your hostname (cached)
+2016-02-23 00:56:09	--	netsplit.pirc.pl: *** Checking ident...
+2016-02-23 00:56:09	--	netsplit.pirc.pl: *** Received identd response
+2016-02-23 00:56:09	--	Welcome to the pirc.pl IRC Network Marco!marco@host-188-122-2-27.finemedia.pl
+2016-02-23 00:56:09	--	Your host is netsplit.pirc.pl, running version Unreal3.2.10.6
+2016-02-23 00:56:09	--	This server was created wto, 29 gru CET at 2015, 20:21:42
+2016-02-23 00:56:09	--	netsplit.pirc.pl Unreal3.2.10.6 iowghraAsORTVSxNCWqBzvdHtGpIkFn lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2016-02-23 00:56:09	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=30 CHANLIMIT=#:30 MAXLIST=b:200,e:200,I:200 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-02-23 00:56:09	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=#~ PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=pirc.pl CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2016-02-23 00:56:09	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2016-02-23 00:56:09	--	There are 101 users and 253 invisible on 9 servers
+2016-02-23 00:56:09	--	15 :operator(s) online
+2016-02-23 00:56:09	--	144 :channels formed
+2016-02-23 00:56:09	--	I have 59 clients and 0 servers
+2016-02-23 00:56:09	--	59 70 :Current local users 59, max 70
+2016-02-23 00:56:09	--	354 1721 :Current global users 354, max 1721
+2016-02-23 00:56:09	--	- netsplit.pirc.pl Message of the Day -
+2016-02-23 00:56:09	--	- 29/12/2015 20:38
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-        ____ ___ ____   ____   ____  _
+2016-02-23 00:56:09	--	-       |  _ \_ _|  _ \ / ___| |  _ \| |
+2016-02-23 00:56:09	--	-       | |_) | || |_) | |     | |_) | |
+2016-02-23 00:56:09	--	-       |  __/| ||  _ <| |___ _|  __/| |___
+2016-02-23 00:56:09	--	-       |_|  |___|_| \_\____(_)_|   |_____|
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-               POLSKA SIEC IRC
+2016-02-23 00:56:09	--	- --------------------------------------------------
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-   Witamy na serwerze Polskiej Sieci IRC
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-   Wszelkie informacje o sieci, liste kanalow,
+2016-02-23 00:56:09	--	-   ogloszenia, liste operatorow, panel
+2016-02-23 00:56:09	--	-   uzytkownika oraz pomoc znajdziesz na naszej
+2016-02-23 00:56:09	--	-   stronie, http://www.pirc.pl.
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-   Na sieci pomoc uzyskasz na kanale #help.
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	- --------------------------------------------------
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-   Laczac sie z ta siecia zaznaczasz ze
+2016-02-23 00:56:09	--	-   zapoznales sie z regulaminem sieci dostepnym
+2016-02-23 00:56:09	--	-   http://pirc.pl/teksty/zasady i zobowiazujesz
+2016-02-23 00:56:09	--	-   sie do jego przestrzegania.
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	- --------------------------------------------------
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-   Serwery sieci obsluguja automatyczna konwersje
+2016-02-23 00:56:09	--	-   kodowania (utf-8, iso8859-2, windows-1250).
+2016-02-23 00:56:09	--	-   Informacje: http://pirc.pl/teksty/p_kodowanie
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	- --------------------------------------------------
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-   Zglaszanie naduzyc:     abuse@pirc.pl
+2016-02-23 00:56:09	--	-   Strona www:             http://pirc.pl
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	- --------------------------------------------------
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-   Do kazdego serwera na naszej sieci mozna sie
+2016-02-23 00:56:09	--	-   polaczy? na ponizszych portach. Zachecamy do
+2016-02-23 00:56:09	--	-   laczenia sie na adres irc.pirc.pl, ktory
+2016-02-23 00:56:09	--	-   kieruje na losowy serwer sieci PIRC.
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-   Porty:                  6665 - 6668
+2016-02-23 00:56:09	--	-   SSL:                    6697, 6601, 7002
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	- --------------------------------------------------
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-    netsplit.pirc.pl
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-    Administratorzy:
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	-      k4be
+2016-02-23 00:56:09	--	-
+2016-02-23 00:56:09	--	- --------------------------------------------------
+2016-02-23 00:56:09	--	End of /MOTD command.
+2016-02-23 00:56:09	--	NickServ (serwisy@pirc.pl): Ten nick jest zarejestrowany i chroniony.
+2016-02-23 00:56:09	--	NickServ (serwisy@pirc.pl): Zidentyfikuj si? pisz?c: /msg NickServ IDENTIFY has?o
+2016-02-23 00:56:09	--	NickServ (serwisy@pirc.pl): je?li nick nale?y do Ciebie, w przeciwnym razie zmie? go.
+2016-02-23 00:56:09	--	NickServ (serwisy@pirc.pl): Masz jedn? minut? na zmian? nicka, potem zostanie zmieniony si??.
+2016-02-23 00:56:09	--	[*] Marco (marco@host-188-122-2-27.finemedia.pl) H 0 (marco)
+2016-02-23 00:56:09	--	[Marco] End of /WHO list.
+2016-02-23 00:56:11	--	You have been marked as being away
+2016-02-23 00:56:11	--	NickServ (serwisy@pirc.pl): Has?o przyj?te - jeste? zidentyfikowany(a).
+2016-02-23 00:56:11	--	HostServ (serwisy@pirc.pl): Tw?j vhost vhost:idz.pan.w jest teraz aktywny.
+2016-02-23 00:56:15	--	You have been marked as being away
+2016-02-23 11:16:16	--	You are no longer marked as being away
+2016-02-23 11:32:37	--	You have been marked as being away
+2016-02-23 11:43:16	--	You are no longer marked as being away
+2016-02-23 12:11:27	--	You have been marked as being away
+2016-02-23 12:28:41	--	You are no longer marked as being away
+2016-02-23 12:31:42	--	You have been marked as being away
+2016-02-23 12:35:08	--	You are no longer marked as being away
+2016-02-23 12:35:41	--	You have been marked as being away
+2016-02-23 12:38:52	--	You are no longer marked as being away
+2016-02-23 12:39:09	--	irc: connected to celber.pl/40134 (188.122.2.27)
+2016-02-23 12:39:10	--	Welcome to the pirc.pl IRC Network Marco!marco@host-188-122-2-27.finemedia.pl
+2016-02-23 12:39:10	--	Your host is netsplit.pirc.pl, running version Unreal3.2.10.6
+2016-02-23 12:39:10	--	This server was created wto, 29 gru CET at 2015, 20:21:42
+2016-02-23 12:39:10	--	netsplit.pirc.pl Unreal3.2.10.6 iowghraAsORTVSxNCWqBzvdHtGpIkFn lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2016-02-23 12:39:10	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=30 CHANLIMIT=#:30 MAXLIST=b:200,e:200,I:200 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2016-02-23 12:39:10	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=#~ PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=pirc.pl CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2016-02-23 12:39:10	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2016-02-23 12:39:10	--	There are 101 users and 253 invisible on 9 servers
+2016-02-23 12:39:10	--	15 :operator(s) online
+2016-02-23 12:39:10	--	144 :channels formed
+2016-02-23 12:39:10	--	I have 59 clients and 0 servers
+2016-02-23 12:39:10	--	59 70 :Current local users 59, max 70
+2016-02-23 12:39:10	--	354 1721 :Current global users 354, max 1721
+2016-02-23 12:39:10	--	- netsplit.pirc.pl Message of the Day -
+2016-02-23 12:39:10	--	- 29/12/2015 20:38
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-        ____ ___ ____   ____   ____  _
+2016-02-23 12:39:10	--	-       |  _ \_ _|  _ \ / ___| |  _ \| |
+2016-02-23 12:39:10	--	-       | |_) | || |_) | |     | |_) | |
+2016-02-23 12:39:10	--	-       |  __/| ||  _ <| |___ _|  __/| |___
+2016-02-23 12:39:10	--	-       |_|  |___|_| \_\____(_)_|   |_____|
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-               POLSKA SIEC IRC
+2016-02-23 12:39:10	--	- --------------------------------------------------
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-   Witamy na serwerze Polskiej Sieci IRC
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-   Wszelkie informacje o sieci, liste kanalow,
+2016-02-23 12:39:10	--	-   ogloszenia, liste operatorow, panel
+2016-02-23 12:39:10	--	-   uzytkownika oraz pomoc znajdziesz na naszej
+2016-02-23 12:39:10	--	-   stronie, http://www.pirc.pl.
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-   Na sieci pomoc uzyskasz na kanale #help.
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	- --------------------------------------------------
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-   Laczac sie z ta siecia zaznaczasz ze
+2016-02-23 12:39:10	--	-   zapoznales sie z regulaminem sieci dostepnym
+2016-02-23 12:39:10	--	-   http://pirc.pl/teksty/zasady i zobowiazujesz
+2016-02-23 12:39:10	--	-   sie do jego przestrzegania.
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	- --------------------------------------------------
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-   Serwery sieci obsluguja automatyczna konwersje
+2016-02-23 12:39:10	--	-   kodowania (utf-8, iso8859-2, windows-1250).
+2016-02-23 12:39:10	--	-   Informacje: http://pirc.pl/teksty/p_kodowanie
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	- --------------------------------------------------
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-   Zglaszanie naduzyc:     abuse@pirc.pl
+2016-02-23 12:39:10	--	-   Strona www:             http://pirc.pl
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	- --------------------------------------------------
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-   Do kazdego serwera na naszej sieci mozna sie
+2016-02-23 12:39:10	--	-   polaczy? na ponizszych portach. Zachecamy do
+2016-02-23 12:39:10	--	-   laczenia sie na adres irc.pirc.pl, ktory
+2016-02-23 12:39:10	--	-   kieruje na losowy serwer sieci PIRC.
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-   Porty:                  6665 - 6668
+2016-02-23 12:39:10	--	-   SSL:                    6697, 6601, 7002
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	- --------------------------------------------------
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-    netsplit.pirc.pl
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-    Administratorzy:
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	-      k4be
+2016-02-23 12:39:10	--	-
+2016-02-23 12:39:10	--	- --------------------------------------------------
+2016-02-23 12:39:10	--	End of /MOTD command.
+2016-02-23 12:40:14	--	You have been marked as being away
+2016-02-23 14:29:49	--	You are no longer marked as being away
+2016-02-23 14:32:44	--	You have been marked as being away
+2016-02-23 14:37:17	--	You are no longer marked as being away
+2016-02-23 15:12:13	--	You have been marked as being away
+2016-02-23 15:56:32	--	You are no longer marked as being away
+2016-02-23 16:09:47	--	You have been marked as being away
+2016-02-23 16:10:48	--	You are no longer marked as being away
+2016-02-23 17:53:42	--	You have been marked as being away
+2016-02-23 19:34:24	--	You are no longer marked as being away
+2016-02-23 21:25:04	--	You have been marked as being away
+2016-02-23 21:56:29	--	You are no longer marked as being away
+2016-02-24 00:29:59	--	You have been marked as being away
+2016-02-24 00:37:12	--	You are no longer marked as being away
+2016-02-24 00:51:52	--	You have been marked as being away
+2016-02-24 01:15:54	--	You are no longer marked as being away
+2016-02-24 09:29:15	--	You have been marked as being away
+2016-02-24 09:31:04	--	You are no longer marked as being away
+2016-02-24 09:49:34	--	You have been marked as being away
+2016-02-24 09:52:59	--	You are no longer marked as being away
+2016-02-24 10:15:49	--	You have been marked as being away
+2016-02-24 10:16:24	--	You are no longer marked as being away
+2016-02-24 10:34:02	--	You are no longer marked as being away
+2016-02-24 10:37:35	--	You have been marked as being away
+2016-02-24 10:55:02	--	You are no longer marked as being away
+2016-02-24 11:02:27	--	You have been marked as being away
+2016-02-24 11:32:13	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 11:33:13	=!=	irc: timeout
+2016-02-24 11:33:13	--	irc: ponowne połączenie za 10 sekund
+2016-02-24 11:33:23	--	irc: ponownie łączę się z serwerem...
+2016-02-24 11:33:23	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 11:34:23	=!=	irc: timeout
+2016-02-24 11:34:23	--	irc: ponowne połączenie za 20 sekund
+2016-02-24 11:34:43	--	irc: ponownie łączę się z serwerem...
+2016-02-24 11:34:43	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 11:35:43	=!=	irc: timeout
+2016-02-24 11:35:43	--	irc: ponowne połączenie za 40 sekund
+2016-02-24 11:36:23	--	irc: ponownie łączę się z serwerem...
+2016-02-24 11:36:23	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 11:37:23	=!=	irc: timeout
+2016-02-24 11:37:23	--	irc: ponowne połączenie z serwerem za 1 minutę, 20 sekund
+2016-02-24 11:38:43	--	irc: ponownie łączę się z serwerem...
+2016-02-24 11:38:43	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 11:39:43	=!=	irc: timeout
+2016-02-24 11:39:43	--	irc: ponowne połączenie z serwerem za 2 minuty, 40 sekund
+2016-02-24 11:42:23	--	irc: ponownie łączę się z serwerem...
+2016-02-24 11:42:23	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 11:43:23	=!=	irc: timeout
+2016-02-24 11:43:23	--	irc: ponowne połączenie z serwerem za 5 minut, 20 sekund
+2016-02-24 11:59:43	--	irc: ponownie łączę się z serwerem...
+2016-02-24 11:59:43	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 11:59:43	=!=	irc: nie znaleziono adresu "celber.pl"
+2016-02-24 11:59:43	=!=	irc: błąd: Ta nazwa lub usługa jest nieznana
+2016-02-24 11:59:43	--	irc: ponowne połączenie za 10 minut
+2016-02-24 12:09:43	--	irc: ponownie łączę się z serwerem...
+2016-02-24 12:09:43	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 12:09:43	=!=	irc: nie znaleziono adresu "celber.pl"
+2016-02-24 12:09:43	=!=	irc: błąd: Ta nazwa lub usługa jest nieznana
+2016-02-24 12:09:43	--	irc: ponowne połączenie za 10 minut
+2016-02-24 13:01:44	--	irc: ponownie łączę się z serwerem...
+2016-02-24 13:01:44	--	irc: łączę z serwerem celber.pl/40134...
+2016-02-24 13:01:44	=!=	irc: nie znaleziono adresu "celber.pl"
+2016-02-24 13:01:44	=!=	irc: błąd: Ta nazwa lub usługa jest nieznana
+2016-02-24 13:01:44	--	irc: ponowne połączenie za 10 minut

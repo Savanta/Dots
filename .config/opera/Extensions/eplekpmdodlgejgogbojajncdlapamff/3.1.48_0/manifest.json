@@ -1,0 +1,33 @@
+{
+   "background": {
+      "page": "html/background.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "css/es.css" ],
+      "js": [ "js/jquery.js", "js/eliminator-slajdow.jquery.widget.js", "js/contentscript.js" ],
+      "matches": [ "http://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Dodatek eliminuje slajdy w galeriach zdjęć na większości polskich portali",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "48": "images/icon_48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpw7ENkDHO/fYAKd4Jsph3JxVkRCSEmoDidXXPHuHQTlWFncw1mD7NorfxBythgLh/7pSNFosr0/aASIlXMFnhMJRa0MtDgJWS9rBvsxl+c5m8u/XNWLSHa69cm4j1AzdhR8YYr9ieS7IQSN/ZSU6WGll60RAObFPaKk6I81PTdwIDAQAB",
+   "manifest_version": 2,
+   "name": "Eliminator Slajdów",
+   "options_page": "html/popup.html",
+   "page_action": {
+      "default_icon": "images/icon_48.png",
+      "default_popup": "html/popup.html",
+      "default_title": "Eliminator Slajdów"
+   },
+   "permissions": [ "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.48",
+   "web_accessible_resources": [ "images/DonateBitcoin.png", "images/es_logo.svg" ]
+}

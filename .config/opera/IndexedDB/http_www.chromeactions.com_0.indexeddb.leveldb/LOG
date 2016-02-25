@@ -1,0 +1,9 @@
+2016/02/24-03:04:03.618 1563 Reusing MANIFEST /home/savant/.config/opera/IndexedDB/http_www.chromeactions.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/02/24-03:04:03.862 1563 Current memtable full; waiting...
+2016/02/24-03:04:03.862 6520 Level-0 table #5: started
+2016/02/24-03:04:03.896 6520 Level-0 table #5: 399 bytes OK
+2016/02/24-03:04:03.985 6520 Delete type=0 #3
+2016/02/24-03:04:03.985 6520 Level-0 table #7: started
+2016/02/24-03:04:03.985 6520 Level-0 table #7: 0 bytes OK
+2016/02/24-03:04:04.062 6520 Delete type=0 #4
+2016/02/24-03:04:04.062 6520 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
