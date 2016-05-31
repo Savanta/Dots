@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <openbox_config xmlns="http://openbox.org/3.4/rc">
   <resistance>
     <strength>10</strength>
@@ -39,7 +40,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Numix-Frost-Light</name>
+    <name>IcyBlack</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -111,7 +112,7 @@
 
        use obconf if you want to change these without having to log out
        and back in -->
-    <number>4</number>
+    <number>2</number>
     <firstdesk>1</firstdesk>
     <names>
       <name>1</name>
@@ -144,7 +145,7 @@
      Many programs reserve space automatically, but you can use this in other
      cases. -->
   <margins>
-    <top>2</top>
+    <top>20</top>
     <bottom>0</bottom>
     <left>0</left>
     <right>0</right>
@@ -174,10 +175,9 @@
         <wrap>no</wrap>
       </action>
     </keybind>
-    <keybind key="C-A-s">
+    <keybind key="F9">
       <action name="Execute">
-        <command>screen</command>
-        <prompt>scr</prompt>
+        <command>uguush -s</command>
       </action>
     </keybind>
     <keybind key="XF86PowerOff">
@@ -787,6 +787,13 @@
       <focus>yes</focus>
       <maximized>no</maximized>
     </application>
+    <application class="Opera">
+      <decor>no</decor>
+    </application>
+    <application class="Firefox">
+      <decor>no</decor>
+      <maximized>yes</maximized>
+    </application>
     <!--
   # this is an example with comments through out. use these to make your
   # own rules, but without the comments of course.
@@ -865,5 +872,19 @@
 
   # end of the example
 -->
+    <application class="Subl3">
+      <decor>no</decor>
+      <focus>default</focus>
+      <maximized>yes</maximized>
+    </application>
+    <application class="Thunderbird">
+      <decor>no</decor>
+      <maximized>yes</maximized>
+    </application>
+    <application class="Vlc">
+      <decor>no</decor>
+      <focus>default</focus>
+      <maximized>yes</maximized>
+    </application>
   </applications>
 </openbox_config>

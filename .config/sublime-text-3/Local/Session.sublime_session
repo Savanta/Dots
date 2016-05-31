@@ -1,10 +1,25 @@
 {
 	"folder_history":
 	[
+		"/home/savant/Pobrane",
+		"/tmp/mozilla_savant0",
+		"/home/savant",
+		"/home/savant/html",
+		"/home/savant/Pobrane/Stellaris-CODEX",
+		"/home/savant/Muzyka/Nawiasem mówiąc",
+		"/home/savant/Pobrane/[99 % i działa] Beata Kozyra - Zarządzanie sobą. Zrozum siebie i zrealizuj marzenia",
+		"/home/savant/Agusia/Biologia",
+		"/home/savant/Agusia/Chemia",
+		"/home/savant/Pulpit",
+		"/home/savant/.minecraft/shaderpacks",
+		"/home/savant/.config/plank",
+		"/home/savant/.minecraft/resourcepacks",
+		"/home/savant/Wideo/Avengers Age of Ultron (2015) [1080p]",
+		"/home/savant/Wideo/Gods Of Eygpt 2016 READNFO TS XviD AC3 ACAB",
 		"/home/savant/.mpd"
 	],
-	"last_version": 3103,
-	"last_window_id": 3,
+	"last_version": 3114,
+	"last_window_id": 25,
 	"log_indexing": false,
 	"settings":
 	{
@@ -15,10 +30,46 @@
 			{
 				"selected_items":
 				[
+					[
+						"a",
+						"a"
+					],
+					[
+						"ma",
+						"main	main()"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"obmen",
+						"obmenu-generator"
+					]
 				]
 			},
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -32,7 +83,7 @@
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 126.0,
 				"history":
 				[
 				]
@@ -48,19 +99,67 @@
 			},
 			"file_history":
 			[
+				"/home/savant/.TODO",
+				"/home/savant/.config/conky.conf.bak",
+				"/home/savant/.config/openbox/rc.xml",
+				"/home/savant/.config/conky.conf",
+				"/home/savant/.config/openbox/autostart",
+				"/home/savant/.themes/IcyBlack/gtk-3.0/gtk.css",
+				"/home/savant/html/index.html",
+				"/home/savant/wp-config.php",
+				"/home/savant/.cache/weather.xml",
+				"/home/savant/index.php",
+				"/home/savant/.cache/.fr-BK76An/Conky Now/.conky_now",
+				"/home/savant/.cache/.fr-45cmWf/1a_accuweather_conkyweather_font/.conkyrc_1a_int",
+				"/home/savant/.cache/.fr-zSiU0v/1a_accuweather_conkyweather_font/1a",
+				"/etc/xdg/openbox/autostart",
 				"/etc/mpd.conf",
+				"/home/savant/.cache/.fr-VLV1ad/city.list.json",
+				"/home/savant/Dokumenty/informatyka wyklad 2",
+				"/home/savant/Pulpit/Biologia.do.gimnazjum.i.liceum-Kompletny.zestaw.do.nauki/#Haslo-Password.txt",
+				"/home/savant/.config/lxsession/openbox/autostart",
+				"/etc/NetworkManager/NetworkManager.conf",
+				"/usr/share/applications/minecraft.desktop",
+				"/usr/share/applications/minecraft1.desktop",
+				"/usr/share/applications/opera.desktop",
+				"/home/savant/.config/plank/dock1/launchers/opera.dockitem",
+				"/home/savant/.config/plank/dock1/launchers/minecraft.dockitem",
+				"/home/savant/plank/src/plank",
+				"/home/savant/.config/obmenu-generator/schema.pl",
+				"/home/savant/zad2.cpp",
+				"/home/savant/zad1.cpp",
+				"/home/savant/Pulpit/cpp.cpp",
+				"/home/savant/.zshrc",
+				"/home/savant/.themes/IcyBlack/openbox-3/themerc",
+				"/home/savant/.config/tint2/tint2rc",
+				"/home/savant/Dokumenty/wniosek o przeksięgowanie kasy na warunek.odt",
+				"/home/savant/Dokumenty/informatyka wykład",
+				"/home/savant/Dokumenty/elektrotechnika ćwiczenia",
+				"/home/savant/Dokumenty/wniosek o przeksięgowanie kasy na warunek.pdf",
+				"/home/savant/.themes/IcyBlack/index.theme",
+				"/home/savant/.tmux.conf",
+				"/home/savant/Obrazy/eNHZ8SG.png",
+				"/home/savant/Pulpit/klucz.cpp",
+				"/home/savant/Pulpit/tablice.cpp",
+				"/home/savant/.ncmpcpp/config",
+				"/home/savant/.config/tilda/config_0",
+				"/home/savant/.config/obmenu-generator/config.pl",
+				"/etc/xdg/openbox/rc.xml",
+				"/usr/bin/ts",
+				"/home/savant/TeamSpeak3-Client-linux_amd64-3.0.18.2.run",
 				"/home/savant/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/savant/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 90.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -68,6 +167,12 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"enp0s20u1",
+					"wlp3s0",
+					"keyboard",
+					"keybind",
+					"wlan1",
+					"<< ",
 					"lyric",
 					"nie został znaleziony",
 					"błąd:  pakiet "
@@ -78,6 +183,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"enp0s20u3",
+					"enp0s20u1",
+					"enp2s0",
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -87,13 +196,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 21.0
 			},
 			"input":
 			{
 				"height": 0.0
 			},
-			"menu_visible": true,
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 100.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -101,7 +214,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -134,8 +247,8 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_visible": false,
+			"side_bar_width": 363.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -150,38 +263,50 @@
 			{
 				"selected_items":
 				[
+					[
+						"a",
+						"a"
+					],
+					[
+						"ma",
+						"main	main()"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"obmen",
+						"obmenu-generator"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/etc/xdg/openbox/rc.xml",
-					"settings":
-					{
-						"buffer_size": 23822,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/etc/mpd.conf",
-					"settings":
-					{
-						"buffer_size": 13709,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/savant/.ncmpcpp/config",
-					"settings":
-					{
-						"buffer_size": 13696,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -195,7 +320,7 @@
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 126.0,
 				"history":
 				[
 				]
@@ -209,11 +334,65 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/savant/Pobrane"
+			],
 			"file_history":
 			[
-				"/home/savant/.zshrc",
-				"/home/savant/.ncmpcpp/config",
+				"/home/savant/Pobrane/trening",
+				"/home/savant/.TODO",
+				"/usr/share/applications/vlc.desktop",
+				"/home/savant/Pobrane/Stellaris [Linux] [MiTGuNNeR]/please read.txt",
+				"/usr/share/applications/firefox.desktop",
+				"/usr/share/themes/IcyBlack/gtk-2.0/gtkrc",
+				"/home/savant/.config/conky.conf.bak",
+				"/home/savant/.config/openbox/rc.xml",
+				"/home/savant/.config/conky.conf",
+				"/home/savant/.config/openbox/autostart",
+				"/home/savant/.themes/IcyBlack/gtk-3.0/gtk.css",
+				"/home/savant/html/index.html",
+				"/home/savant/wp-config.php",
+				"/home/savant/.cache/weather.xml",
+				"/home/savant/index.php",
+				"/home/savant/.cache/.fr-BK76An/Conky Now/.conky_now",
+				"/home/savant/.cache/.fr-45cmWf/1a_accuweather_conkyweather_font/.conkyrc_1a_int",
+				"/home/savant/.cache/.fr-zSiU0v/1a_accuweather_conkyweather_font/1a",
+				"/etc/xdg/openbox/autostart",
 				"/etc/mpd.conf",
+				"/home/savant/.cache/.fr-VLV1ad/city.list.json",
+				"/home/savant/Dokumenty/informatyka wyklad 2",
+				"/home/savant/Pulpit/Biologia.do.gimnazjum.i.liceum-Kompletny.zestaw.do.nauki/#Haslo-Password.txt",
+				"/home/savant/.config/lxsession/openbox/autostart",
+				"/etc/NetworkManager/NetworkManager.conf",
+				"/usr/share/applications/minecraft.desktop",
+				"/usr/share/applications/minecraft1.desktop",
+				"/usr/share/applications/opera.desktop",
+				"/home/savant/.config/plank/dock1/launchers/opera.dockitem",
+				"/home/savant/.config/plank/dock1/launchers/minecraft.dockitem",
+				"/home/savant/plank/src/plank",
+				"/home/savant/.config/obmenu-generator/schema.pl",
+				"/home/savant/zad2.cpp",
+				"/home/savant/zad1.cpp",
+				"/home/savant/Pulpit/cpp.cpp",
+				"/home/savant/.zshrc",
+				"/home/savant/.themes/IcyBlack/openbox-3/themerc",
+				"/home/savant/.config/tint2/tint2rc",
+				"/home/savant/Dokumenty/wniosek o przeksięgowanie kasy na warunek.odt",
+				"/home/savant/Dokumenty/informatyka wykład",
+				"/home/savant/Dokumenty/elektrotechnika ćwiczenia",
+				"/home/savant/Dokumenty/wniosek o przeksięgowanie kasy na warunek.pdf",
+				"/home/savant/.themes/IcyBlack/index.theme",
+				"/home/savant/.tmux.conf",
+				"/home/savant/Obrazy/eNHZ8SG.png",
+				"/home/savant/Pulpit/klucz.cpp",
+				"/home/savant/Pulpit/tablice.cpp",
+				"/home/savant/.ncmpcpp/config",
+				"/home/savant/.config/tilda/config_0",
+				"/home/savant/.config/obmenu-generator/config.pl",
+				"/etc/xdg/openbox/rc.xml",
+				"/usr/bin/ts",
+				"/home/savant/TeamSpeak3-Client-linux_amd64-3.0.18.2.run",
 				"/home/savant/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/savant/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
 			],
@@ -223,9 +402,10 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 90.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -233,6 +413,12 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"enp0s20u1",
+					"wlp3s0",
+					"keyboard",
+					"keybind",
+					"wlan1",
+					"<< ",
 					"lyric",
 					"nie został znaleziony",
 					"błąd:  pakiet "
@@ -243,6 +429,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"enp0s20u3",
+					"enp0s20u1",
+					"enp2s0",
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -250,102 +440,23 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/savant/Pobrane"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 2,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/etc/xdg/openbox/rc.xml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 23822,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										20074,
-										20074
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/XML/XML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 11205.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/etc/mpd.conf",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13709,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7795,
-										7795
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 4155.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/savant/.ncmpcpp/config",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13696,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										9612,
-										9617
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 5075.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 21.0
 			},
 			"input":
 			{
@@ -374,16 +485,20 @@
 				]
 			},
 			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 100.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,325,137,833,617,1366,768",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -420,13 +535,13 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_visible": false,
+			"side_bar_width": 363.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 19,
 			"workspace_name": ""
 		}
 	],

@@ -1,5 +1,5 @@
 TerminalEmulator=custom-TerminalEmulator
-WebBrowser=opera-browser
+WebBrowser=firefox
 MailReader=opera-mailer
-FileManager=nautilus
+FileManager=Thunar
 
